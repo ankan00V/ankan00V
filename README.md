@@ -2,29 +2,29 @@
 
 🌟 About Me
 
-I’m a passionate BTech student with a deep interest in software development, algorithms, and problem-solving. 🚀 I’m currently exploring various tech domains and honing my skills to become a well-rounded software engineer.
+I’m an aspiring Data Scientist and BTech student passionate about Artificial Intelligence, Machine Learning, and Data Science. 🚀 I love working with data, building AI models, and exploring innovative solutions in tech.
 
 👀 What I’m Interested In
-Programming Languages: C++, Python, JavaScript
-Technologies: Web Development, Data Structures & Algorithms, Game Development
-Fields: Artificial Intelligence, Machine Learning, and Cloud Computing
+Programming Languages: Python, C++
+Technologies: Data Science, Machine Learning, AI Model Development, Web Development
+Fields: AI, Data Visualization, Cloud Computing, and Generative AI
 
 🌱 Currently Learning
-Web Development: Building dynamic web applications using HTML, CSS, and JavaScript.
-Data Structures & Algorithms: Enhancing my problem-solving skills through various competitive programming platforms.
-Game Development: Exploring game design and development concepts through projects like Connect Four in C++.
+AI & Machine Learning: Building and training AI models, working with real-world datasets
+Data Visualization: Creating insightful visualizations using Python libraries like Matplotlib and Seaborn
+Web Development: Learning backend development to integrate AI models into web applications
 
 💞️ I’m Looking to Collaborate On
-Open Source Projects: Contributing to projects in areas like web development, algorithms, or game development.
-Innovative Software Solutions: Working on creative ideas or challenges related to technology and programming.
-Research Opportunities: Exploring research in fields like AI, ML, and cloud technologies.
+Open Source AI & Data Science Projects
+AI Model Development & Research
+Innovative Software & Data-Driven Solutions
 
 📫 How to Reach Me
-Email: your- ghoshankan005@gmail.com
-LinkedIn: https://www.linkedin.com/in/ankan-ghosh-0v/
+📧 Email: ghoshankan005@gmail.com
+💼 LinkedIn: Ankan Ghosh
 
 😄 Pronouns
 He/Him
 
 ⚡ Fun Fact
-I love solving puzzles and brain teasers in my free time. 🧩✨ I believe that every challenge is an opportunity to learn and grow!
+I love solving puzzles and working on real-world AI applications. Every data point tells a story, and I’m excited to uncover insights from them! 🧩✨
