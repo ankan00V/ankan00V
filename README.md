@@ -21,7 +21,7 @@ Innovative Software & Data-Driven Solutions
 
 📫 How to Reach Me
 📧 Email: ghoshankan005@gmail.com
-💼 LinkedIn: Ankan Ghosh
+💼 LinkedIn: https://www.linkedin.com/in/ghoshankan/
 
 😄 Pronouns
 He/Him
