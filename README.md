@@ -1,49 +1,88 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=Hi%20I'm%20Ankan%20👋&fontAlign=50&fontAlignY=40&fontSize=70&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20ML%20Enthusiast&descAlign=50&descAlignY=62&animation=twinkling" />
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=600&color=00F5FF&center=true&vCenter=true&width=900&lines=Data+Science+%7C+AI+%7C+Machine+Learning;Turning+Data+into+Insights;Building+AI+Models+with+Real-World+Impact;Learning.+Building.+Improving+Everyday." />
+<!-- ================= HERO ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00f5ff&height=260&section=header&text=Ankan%20Ghosh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20ML%20Engineer&descAlignY=60"/>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ankan00V&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/ankan00V?style=for-the-badge&color=ff00ff" />
+<!-- ================= TYPING ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+%26+AI+Engineer;ML+%7C+GenAI+%7C+MLOps;Turning+Data+Into+Decisions;Always+Learning+Always+Building&center=true&width=700&height=45">
 </p>
 
-</div>
+<!-- ================= SOCIALS ================= -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ghoshankan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@ghoshankan005">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:ghoshankan005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
----
+<!-- ================= VIEWS ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankan00v&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" />
+<!-- ================= ABOUT ================= -->
+<p align="center">
+🔭 Working on <b>SATYQ CORE</b><br>
+🌱 Learning <b>Advanced ML · GenAI · LLMs · MLOps</b><br>
+🤝 Open to <b>AI & ML Collaborations</b><br>
+✍️ Writing on <b>Medium</b><br>
+⚡ Music ON = Deep Focus 🎧
+</p>
 
-## 🌟 About Me
+<!-- ================= TECH STACK ================= -->
+<h3 align="center">🚀 Tech Stack</h3>
 
-🎓 I’m **Ankan**, a **B.Tech student** and an **aspiring Data Scientist** with a deep passion for  
-**Artificial Intelligence, Machine Learning, and Data Science**.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark"/>
+</p>
 
-I love working with **real-world data**, building **intelligent systems**, and exploring how **AI-driven solutions** can solve meaningful problems. 🚀  
-For me, every dataset has a story — I enjoy uncovering insights hidden beneath the numbers.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/>
+</p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,django,flask,bootstrap,tailwind&theme=dark"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,linux,mysql,mongodb&theme=dark"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48"/>
+</p>
 
-## 👀 Interests & Focus Areas
+<!-- ================= STATS ================= -->
+<h3 align="center">📊 GitHub Stats</h3>
 
-```yaml
-Programming Languages:
-  - Python
-  - C++
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankan00v&show_icons=true&theme=tokyonight" height="170"/>
+</p>
 
-Technologies:
-  - Data Science
-  - Machine Learning
-  - Artificial Intelligence
-  - Web Development
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankan00v&theme=tokyonight" height="170"/>
+</p>
 
-Domains:
-  - AI Model Development
-  - Data Visualization
-  - Cloud Computing
-  - Generative AI
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan00v&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<!-- ================= SNAKE ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<!-- ================= TROPHIES ================= -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankan00v&theme=algolia&row=1&column=6"/>
+</p>
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0e75b6&height=120&section=footer"/>
+</p>
