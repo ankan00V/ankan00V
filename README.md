@@ -1,88 +1,277 @@
-<!-- ================= HERO ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00f5ff&height=260&section=header&text=Ankan%20Ghosh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20ML%20Engineer&descAlignY=60"/>
-</p>
+<div align="center">
 
-<!-- ================= TYPING ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+%26+AI+Engineer;ML+%7C+GenAI+%7C+MLOps;Turning+Data+Into+Decisions;Always+Learning+Always+Building&center=true&width=700&height=45">
-</p>
+<!-- ============================================================
+     ASCII HERO — neon cyan on pure black, no banner image
+============================================================ -->
 
-<!-- ================= SOCIALS ================= -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/ghoshankan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@ghoshankan005">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="mailto:ghoshankan005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<!-- ============================================================
+     BIG ASCII NAME BLOCK
+============================================================ -->
 
-<!-- ================= VIEWS ================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankan00v&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+```
+ █████╗ ███╗   ██╗██╗  ██╗ █████╗ ███╗   ██╗
+██╔══██╗████╗  ██║██║ ██╔╝██╔══██╗████╗  ██║
+███████║██╔██╗ ██║█████╔╝ ███████║██╔██╗ ██║
+██╔══██║██║╚██╗██║██╔═██╗ ██╔══██║██║╚██╗██║
+██║  ██║██║ ╚████║██║  ██╗██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
-<!-- ================= ABOUT ================= -->
-<p align="center">
-🔭 Working on <b>SATYQ CORE</b><br>
-🌱 Learning <b>Advanced ML · GenAI · LLMs · MLOps</b><br>
-🤝 Open to <b>AI & ML Collaborations</b><br>
-✍️ Writing on <b>Medium</b><br>
-⚡ Music ON = Deep Focus 🎧
-</p>
+ ██████╗ ██╗  ██╗ ██████╗ ███████╗██╗  ██╗
+██╔════╝ ██║  ██║██╔═══██╗██╔════╝██║  ██║
+██║  ███╗███████║██║   ██║███████╗███████║
+██║   ██║██╔══██║██║   ██║╚════██║██╔══██║
+╚██████╔╝██║  ██║╚██████╔╝███████║██║  ██║
+ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-<!-- ================= TECH STACK ================= -->
-<h3 align="center">🚀 Tech Stack</h3>
+<!-- ============================================================
+     TYPING — neon cyan, cyberpunk tone
+============================================================ -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E+Data+Scientist+%C2%B7+ML+Engineer+%C2%B7+GenAI+Builder;%3E+Shipping+ML+systems+that+run+in+production.;%3E+Currently+building%3A+SATYQ+CORE+%E2%80%94+industrial+AI.;%3E+Rank+%232+%2F+40%2C000%2B+%7C+McKinsey+Forward+Program.;%3E+Always+learning.+Always+building.+Always+shipping.)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,django,flask,bootstrap,tailwind&theme=dark"/>
-</p>
+<!-- ============================================================
+     SOCIAL LINKS — neon styled
+============================================================ -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,linux,mysql,mongodb&theme=dark"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FFFF.svg?style=for-the-badge&logo=linkedin&logoColor=0a0a0a)](https://www.linkedin.com/in/ghoshankan/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23FF00FF.svg?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/ankan00V)
+[![Email](https://img.shields.io/badge/Gmail-%2300FFFF.svg?style=for-the-badge&logo=gmail&logoColor=0a0a0a)](mailto:ghoshankan005@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-%23FF00FF.svg?style=for-the-badge&logo=medium&logoColor=0a0a0a)](https://medium.com/@ghoshankan005)
+[![Mobile](https://img.shields.io/badge/+91--9046359825-%2300FFFF.svg?style=for-the-badge&logo=whatsapp&logoColor=0a0a0a)](tel:+919046359825)
+![Visitors](https://komarev.com/ghpvc/?username=ankan00v&style=for-the-badge&color=FF00FF&label=VISITORS)
 
-<!-- ================= STATS ================= -->
-<h3 align="center">📊 GitHub Stats</h3>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankan00v&show_icons=true&theme=tokyonight" height="170"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankan00v&theme=tokyonight" height="170"/>
-</p>
+<!-- ============================================================
+     ABOUT
+============================================================ -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan00v&layout=compact&theme=tokyonight" height="170"/>
-</p>
+```bash
+┌──[ankan@cyberdeck]─[~]
+└─$ cat about.txt
+```
 
-<!-- ================= SNAKE ================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+```
+  NAME      Ankan Ghosh
+  ROLE      Data Science & ML Engineer
+  LOCATION  Phagwara, Punjab, India
+  EDU       B.Tech CSE — Lovely Professional University  [CGPA: 8.0]
+  STATUS    ▓▓▓▓▓▓▓▓▓░  ONLINE — building in public
 
-<!-- ================= TROPHIES ================= -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankan00v&theme=algolia&row=1&column=6"/>
-</p>
+  I design and ship ML systems end-to-end: from raw, messy data
+  to deployed models that reduce real effort and surface real
+  decisions. Focused on GenAI, multimodal AI, and predictive
+  intelligence at the intersection of software and data.
 
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0e75b6&height=120&section=footer"/>
-</p>
+  INTERESTS   ML · GenAI · LLMs · MLOps · Industrial AI
+  OPEN TO     Collaborations · Research · Internships
+```
+
+```bash
+┌──[ankan@cyberdeck]─[~]
+└─$ cat now.txt
+```
+
+```
+  > Shipping      SATYQ CORE — industrial AI quality control system
+  > Studying      LLM fine-tuning · MLOps at scale · Advanced ML
+  > Latest win    Rank #2 @ Graph Camp  [Top 50 / 40,000+ applicants]
+  > Certified     Oracle · Databricks · IBM · Microsoft  [8 certs]
+  > Writing       Medium — Data Science & AI in plain language
+  > Ritual        Music ON = flow state unlocked ⚡
+```
+
+---
+
+<!-- ============================================================
+     ACTIVE PROJECT
+============================================================ -->
+
+```bash
+┌──[ankan@cyberdeck]─[~/projects]
+└─$ cat satyq_core.md
+```
+
+```
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  [ACTIVE]  SATYQ CORE  //  Industrial AI Quality Control       │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  TYPE    GenAI · Multimodal ML · Predictive Intelligence        │
+  │  STACK   Client-side AI · GPT routing · Visual defect analysis  │
+  │  STATUS  ████████████████████░░  IN PROGRESS                    │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  Browser-native multimodal quality analysis across structured   │
+  │  data, images, and operational logs. GPT-powered task routing   │
+  │  eliminated ~30% of manual inspection effort. Automated         │
+  │  telemetry analytics deliver 2× faster insights. Shifts ops     │
+  │  from reactive firefighting to predictive intelligence.         │
+  └─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<!-- ============================================================
+     TECH STACK
+============================================================ -->
+
+```bash
+┌──[ankan@cyberdeck]─[~]
+└─$ pip list --by-category
+```
+
+<div align="center">
+
+**`[ LANGUAGES ]`**
+
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00FFFF)
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=00FFFF)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
+![PySpark](https://img.shields.io/badge/PySpark-0a0a0a?style=for-the-badge&logo=apachespark&logoColor=00FFFF)
+
+**`[ ML & AI ]`**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=FF00FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=FF00FF)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=FF00FF)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=FF00FF)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=FF00FF)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=for-the-badge&logo=opencv&logoColor=FF00FF)
+
+**`[ BACKEND & APIs ]`**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=39FF14)
+![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=39FF14)
+![Django](https://img.shields.io/badge/Django-0a0a0a?style=for-the-badge&logo=django&logoColor=39FF14)
+
+**`[ CLOUD & INFRASTRUCTURE ]`**
+
+![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=00FFFF)
+![BigQuery](https://img.shields.io/badge/BigQuery-0a0a0a?style=for-the-badge&logo=googlebigquery&logoColor=00FFFF)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=00FFFF)
+![Hadoop](https://img.shields.io/badge/Hadoop-0a0a0a?style=for-the-badge&logo=apachehadoop&logoColor=00FFFF)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=00FFFF)
+
+**`[ ANALYTICS & VISUALIZATION ]`**
+
+![Tableau](https://img.shields.io/badge/Tableau-0a0a0a?style=for-the-badge&logo=tableau&logoColor=FF00FF)
+![PowerBI](https://img.shields.io/badge/Power%20BI-0a0a0a?style=for-the-badge&logo=powerbi&logoColor=FF00FF)
+
+</div>
+
+---
+
+<!-- ============================================================
+     GITHUB STATS
+============================================================ -->
+
+```bash
+┌──[ankan@cyberdeck]─[~]
+└─$ git log --all --oneline --stat
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankan00v&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9&ring_color=00FFFF" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan00v&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00FFFF&text_color=c9d1d9" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ankan00v&hide_border=true&background=0a0a0a&ring=00FFFF&fire=FF00FF&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00FFFF&sideLabels=c9d1d9&dates=555566&stroke=1a1a2e" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankan00v&bg_color=0a0a0a&color=00FFFF&line=FF00FF&point=00FFFF&area=true&area_color=1a1a2e&hide_border=true" width="94%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ankan00v&theme=matrix&no-bg=true&no-frame=true&column=6&margin-w=6"/>
+
+</div>
+
+---
+
+<!-- ============================================================
+     CONTRIBUTION SNAKE
+============================================================ -->
+
+```bash
+┌──[ankan@cyberdeck]─[~]
+└─$ python snake.py --render contrib-grid
+```
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+</div>
+
+---
+
+<!-- ============================================================
+     CERTIFICATIONS
+============================================================ -->
+
+```bash
+┌──[ankan@cyberdeck]─[~/certs]
+└─$ ls -1 --verified
+```
+
+```
+  ORACLE      ›  OCI 2025 Data Science Professional          [✔]  Jul 2025
+  ORACLE      ›  OCI 2025 Generative AI Professional         [✔]  Jul 2025
+  ORACLE      ›  AI Vector Search Certified Professional     [✔]  Mar 2025
+  ORACLE      ›  Autonomous Database Cloud Professional      [✔]  Sep 2025
+  ORACLE      ›  Java SE 8 Certified Associate               [✔]  Apr 2025
+  DATABRICKS  ›  Generative AI Fundamentals                  [✔]  May 2025
+  IBM         ›  Machine Learning for Data Science           [✔]  Apr 2025
+  MICROSOFT   ›  Data Analyst Career Path                    [✔]  Mar 2025
+
+  8 items  ·  all credentials verified  ·  STATUS: CLEARED
+```
+
+---
+
+<!-- ============================================================
+     ACHIEVEMENTS
+============================================================ -->
+
+```bash
+┌──[ankan@cyberdeck]─[~]
+└─$ grep "HIGHLIGHT" achievements.log
+```
+
+```
+  >> [Jul 2025]  McKINSEY FORWARD PROGRAM
+                 Selected for McKinsey's global leadership cohort.
+                 Structured problem-solving, data-driven decisions,
+                 professional excellence. Top-tier global program.
+
+  >> [Dec 2025]  RANK #2 — GRAPH CAMP  ·  AlgoUniversity
+                 Top 50 from 40,000+ pan-India applicants.
+                 2nd place at LPU. Mentored by Apple & Google engineers.
+```
+
+---
+
+<!-- ============================================================
+     FOOTER
+============================================================ -->
+
+<div align="center">
+
+```
+  > "The goal is to turn data into information, and information into insight."
+                                                          — Carly Fiorina
+  > Always learning · Always building · Always shipping
+  > connection closed. session terminated.
+```
+
+</div>
