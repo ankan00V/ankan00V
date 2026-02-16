@@ -1,14 +1,10 @@
 <div align="center">
 
 <!-- ============================================================
-     ASCII HERO — neon cyan on pure black, no banner image
+     ASCII HERO — centered via pre tag
 ============================================================ -->
 
-<!-- ============================================================
-     BIG ASCII NAME BLOCK
-============================================================ -->
-
-```
+<pre>
  █████╗ ███╗   ██╗██╗  ██╗ █████╗ ███╗   ██╗
 ██╔══██╗████╗  ██║██║ ██╔╝██╔══██╗████╗  ██║
 ███████║██╔██╗ ██║█████╔╝ ███████║██╔██╗ ██║
@@ -22,25 +18,21 @@
 ██║   ██║██╔══██║██║   ██║╚════██║██╔══██║
 ╚██████╔╝██║  ██║╚██████╔╝███████║██║  ██║
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+</pre>
 
-<!-- ============================================================
-     TYPING — neon cyan, cyberpunk tone
-============================================================ -->
+<!-- TYPING ANIMATION -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E+Data+Scientist+%C2%B7+ML+Engineer+%C2%B7+GenAI+Builder;%3E+Shipping+ML+systems+that+run+in+production.;%3E+Currently+building%3A+SATYQ+CORE+%E2%80%94+industrial+AI.;%3E+Rank+%232+%2F+40%2C000%2B+%7C+McKinsey+Forward+Program.;%3E+Always+learning.+Always+building.+Always+shipping.)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ============================================================
-     SOCIAL LINKS — neon styled
-============================================================ -->
+<!-- SOCIAL LINKS -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FFFF.svg?style=for-the-badge&logo=linkedin&logoColor=0a0a0a)](https://www.linkedin.com/in/ghoshankan/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23FF00FF.svg?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/ankan00V)
 [![Email](https://img.shields.io/badge/Gmail-%2300FFFF.svg?style=for-the-badge&logo=gmail&logoColor=0a0a0a)](mailto:ghoshankan005@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-%23FF00FF.svg?style=for-the-badge&logo=medium&logoColor=0a0a0a)](https://medium.com/@ghoshankan005)
-[![Mobile](https://img.shields.io/badge/+91--9046359825-%2300FFFF.svg?style=for-the-badge&logo=whatsapp&logoColor=0a0a0a)](tel:+919046359825)
+[![Phone](https://img.shields.io/badge/+91--9046359825-%2339FF14.svg?style=for-the-badge&logo=whatsapp&logoColor=0a0a0a)](tel:+919046359825)
 ![Visitors](https://komarev.com/ghpvc/?username=ankan00v&style=for-the-badge&color=FF00FF&label=VISITORS)
 
 </div>
@@ -166,7 +158,7 @@
 ---
 
 <!-- ============================================================
-     GITHUB STATS
+     GITHUB STATS — all reliable services, no vercel rate limits
 ============================================================ -->
 
 ```bash
@@ -176,21 +168,35 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankan00v&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9&ring_color=00FFFF" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan00v&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00FFFF&text_color=c9d1d9" height="170"/>
+<!-- streak-stats.demolab.com — reliable, always works -->
+<img src="https://streak-stats.demolab.com?user=ankan00v&hide_border=true&background=0d0d0d&ring=00FFFF&fire=FF00FF&currStreakNum=00FFFF&sideNums=ffffff&currStreakLabel=FF00FF&sideLabels=aaaaaa&dates=555566&stroke=222233" width="48%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ankan00v&hide_border=true&background=0a0a0a&ring=00FFFF&fire=FF00FF&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00FFFF&sideLabels=c9d1d9&dates=555566&stroke=1a1a2e" height="170"/>
+<!-- githubchart — renders your actual contribution calendar as SVG, always works -->
+[![Ankan's github activity](https://github-readme-activity-graph.vercel.app/graph?username=ankan00v&bg_color=0d0d0d&color=00FFFF&line=FF00FF&point=ffffff&area_color=FF00FF&area=true&hide_border=true&custom_title=CONTRIBUTION%20GRAPH%20%2F%2F%20ankan%40cyberdeck)](https://github.com/ankan00V)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankan00v&bg_color=0a0a0a&color=00FFFF&line=FF00FF&point=00FFFF&area=true&area_color=1a1a2e&hide_border=true" width="94%"/>
+<!-- github-profile-trophy — ryo-ma, very stable -->
+<img src="https://github-profile-trophy.vercel.app/?username=ankan00v&theme=matrix&no-bg=true&no-frame=true&column=6&margin-w=8"/>
 
-<br/><br/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ankan00v&theme=matrix&no-bg=true&no-frame=true&column=6&margin-w=6"/>
+---
+
+<!-- ============================================================
+     SKILL POWER LEVELS — animated typing bars, zero dependencies
+============================================================ -->
+
+```bash
+┌──[ankan@cyberdeck]─[~]
+└─$ ./skill_scan --output power-levels
+```
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=220&lines=Python++++++++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91+90%25;PyTorch+%2F+TF++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+80%25;SQL++++++++++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+80%25;Scikit-learn+++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+82%25;AWS+%2F+Cloud++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91+72%25;Docker+++++++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91+65%25;GenAI+%2F+LLMs+++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+85%25;C%2B%2B+++++++++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91+60%25)](https://github.com/ankan00V)
 
 </div>
 
@@ -261,9 +267,7 @@
 
 ---
 
-<!-- ============================================================
-     FOOTER
-============================================================ -->
+<!-- FOOTER -->
 
 <div align="center">
 
