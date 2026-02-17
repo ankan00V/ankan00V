@@ -221,52 +221,6 @@
 
 ---
 
-<!-- ============================================================
-     CERTIFICATIONS
-============================================================ -->
-
-```bash
-┌──[ankan@cyberdeck]─[~/certs]
-└─$ ls -1 --verified
-```
-
-```
-  ORACLE      ›  OCI 2025 Data Science Professional          [✔]  Jul 2025
-  ORACLE      ›  OCI 2025 Generative AI Professional         [✔]  Jul 2025
-  ORACLE      ›  AI Vector Search Certified Professional     [✔]  Mar 2025
-  ORACLE      ›  Autonomous Database Cloud Professional      [✔]  Sep 2025
-  ORACLE      ›  Java SE 8 Certified Associate               [✔]  Apr 2025
-  DATABRICKS  ›  Generative AI Fundamentals                  [✔]  May 2025
-  IBM         ›  Machine Learning for Data Science           [✔]  Apr 2025
-  MICROSOFT   ›  Data Analyst Career Path                    [✔]  Mar 2025
-
-  8 items  ·  all credentials verified  ·  STATUS: CLEARED
-```
-
----
-
-<!-- ============================================================
-     ACHIEVEMENTS
-============================================================ -->
-
-```bash
-┌──[ankan@cyberdeck]─[~]
-└─$ grep "HIGHLIGHT" achievements.log
-```
-
-```
-  >> [Jul 2025]  McKINSEY FORWARD PROGRAM
-                 Selected for McKinsey's global leadership cohort.
-                 Structured problem-solving, data-driven decisions,
-                 professional excellence. Top-tier global program.
-
-  >> [Dec 2025]  RANK #2 — GRAPH CAMP  ·  AlgoUniversity
-                 Top 50 from 40,000+ pan-India applicants.
-                 2nd place at LPU. Mentored by Apple & Google engineers.
-```
-
----
-
 <!-- FOOTER -->
 
 <div align="center">
