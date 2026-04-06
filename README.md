@@ -22,7 +22,7 @@
 
 <!-- TYPING ANIMATION -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E+Data+Scientist+%C2%B7+ML+Engineer+%C2%B7+GenAI+Builder;%3E+Shipping+ML+systems+that+run+in+production.;%3E+Currently+building%3A+SATYQ+CORE+%E2%80%94+industrial+AI.;%3E+Rank+%232+%2F+40%2C000%2B+%7C+McKinsey+Forward+Program.;%3E+Always+learning.+Always+building.+Always+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E+Data+Scientist+%C2%B7+ML+Engineer+%C2%B7+GenAI+Builder;%3E+Shipping+ML+systems+that+run+in+production.;%3E+Currently+building%3A+Scalable+Systems+%E2%80%94+industrial+AI.;%3E+Rank+%232+%2F+40%2C000%2B+%7C+McKinsey+Forward+Program.;%3E+Always+learning.+Always+building.+Always+shipping.)](https://git.io/typing-svg)
 
 <br/>
 
