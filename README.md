@@ -70,11 +70,11 @@
 ```
 
 ```
-  > Shipping      SATYQ CORE — industrial AI quality control system
-  > Studying      LLM fine-tuning · MLOps at scale · Advanced ML
+  > Shipping      SATYQ CORE — Scalable systems
+  > Studying      LLM fine-tuning · MLOps at scale · Advanced ML . Data Analysis
   > Latest win    Rank #2 @ Graph Camp  [Top 50 / 40,000+ applicants]
-  > Certified     Oracle · Databricks · IBM · Microsoft  [8 certs]
-  > Writing       Medium — Data Science & AI in plain language
+  > Certified     Oracle · Databricks · IBM · Microsoft  [15+ certs]
+  > Writing       HardCore — Data Science & AI enthusiast
   > Ritual        Music ON = flow state unlocked ⚡
 ```
 
@@ -146,13 +146,14 @@
 
 <br/><br/>
 
-<!-- githubchart — renders your actual contribution calendar as SVG, always works -->
+<!-- githubchart — renders your actual contribution calendar as SVG, always works 
 [![Ankan's github activity](https://github-readme-activity-graph.vercel.app/graph?username=ankan00v&bg_color=0d0d0d&color=00FFFF&line=FF00FF&point=ffffff&area_color=FF00FF&area=true&hide_border=true&custom_title=CONTRIBUTION%20GRAPH%20%2F%2F%20ankan%40cyberdeck)](https://github.com/ankan00V)
-
+-->
 <br/><br/>
 
 <!-- github-profile-trophy — ryo-ma, very stable -->
-<img src="https://github-profile-trophy.vercel.app/?username=ankan00v&theme=matrix&no-bg=true&no-frame=true&column=6&margin-w=8"/>
+
+
 
 </div>
 
@@ -169,7 +170,25 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=220&lines=Python++++++++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91+90%25;PyTorch+%2F+TF++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+80%25;SQL++++++++++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+80%25;Scikit-learn+++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+82%25;AWS+%2F+Cloud++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91+72%25;Docker+++++++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91+65%25;GenAI+%2F+LLMs+++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+85%25;C%2B%2B+++++++++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91+60%25)](https://github.com/ankan00V)
+| Languages | AI / ML |
+|:---:|:---:|
+| [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=Python++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91+90%25)](https://github.com/ankan00V) | [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=GenAI+%2F+LLMs+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+85%25)](https://github.com/ankan00V) |
+| [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=SQL+++++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+80%25)](https://github.com/ankan00V) | [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=PyTorch+%2F+TF+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+80%25)](https://github.com/ankan00V) |
+| [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=C%2B%2B++++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91+60%25)](https://github.com/ankan00V) | [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=Scikit-learn+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+82%25)](https://github.com/ankan00V) |
+| | [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=NLP+++++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91+78%25)](https://github.com/ankan00V) |
+| | [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=CV+%2F+OpenCV++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91+75%25)](https://github.com/ankan00V) |
+
+| Data Science | Backend & Systems |
+|:---:|:---:|
+| [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=Pandas+%2F+NumPy+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+88%25)](https://github.com/ankan00V) | [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=FastAPI++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+85%25)](https://github.com/ankan00V) |
+| [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=Matplotlib+%2F+SB+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+80%25)](https://github.com/ankan00V) | [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=PostgreSQL++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+80%25)](https://github.com/ankan00V) |
+| [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=Tableau+%2F+PBI+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91+70%25)](https://github.com/ankan00V) | [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=MongoDB++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91+78%25)](https://github.com/ankan00V) |
+| | [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=Redis++++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91+72%25)](https://github.com/ankan00V) |
+
+| DevOps & Cloud | |
+|:---:|:---:|
+| [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=Docker+%2F+CI-CD+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91+65%25)](https://github.com/ankan00V) | [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=AWS+%2F+OCI++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91+72%25)](https://github.com/ankan00V) |
+| [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&repeat=false&width=280&height=30&lines=Git+++++++++%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91+78%25)](https://github.com/ankan00V) | |
 
 </div>
 
