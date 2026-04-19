@@ -81,33 +81,6 @@
 ---
 
 <!-- ============================================================
-     ACTIVE PROJECT
-============================================================ -->
-
-```bash
-┌──[ankan@cyberdeck]─[~/projects]
-└─$ cat satyq_core.md
-```
-
-```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │  [ACTIVE]  SATYQ CORE  //  Industrial AI Quality Control       │
-  ├─────────────────────────────────────────────────────────────────┤
-  │  TYPE    GenAI · Multimodal ML · Predictive Intelligence        │
-  │  STACK   Client-side AI · GPT routing · Visual defect analysis  │
-  │  STATUS  ████████████████████░░  IN PROGRESS                    │
-  ├─────────────────────────────────────────────────────────────────┤
-  │  Browser-native multimodal quality analysis across structured   │
-  │  data, images, and operational logs. GPT-powered task routing   │
-  │  eliminated ~30% of manual inspection effort. Automated         │
-  │  telemetry analytics deliver 2× faster insights. Shifts ops     │
-  │  from reactive firefighting to predictive intelligence.         │
-  └─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- ============================================================
      TECH STACK
 ============================================================ -->
 
