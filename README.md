@@ -70,7 +70,7 @@
 ```
 
 ```
-  > Shipping      SATYQ CORE — Scalable systems
+  > Shipping      VidyaVerse — Scalable systems
   > Studying      LLM fine-tuning · MLOps at scale · Advanced ML . Data Analysis
   > Latest win    Rank #2 @ Graph Camp  [Top 50 / 40,000+ applicants]
   > Certified     Oracle · Databricks · IBM · Microsoft  [15+ certs]
