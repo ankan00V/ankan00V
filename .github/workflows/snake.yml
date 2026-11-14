@@ -1,0 +1,39 @@
+# Draws the contribution-grid snake from this account's own activity and
+# publishes the SVGs to the `output` branch, which the README links to.
+name: Snake
+
+on:
+  schedule:
+    - cron: "40 */12 * * *"
+  workflow_dispatch:
+  push:
+    paths: [.github/workflows/snake.yml]
+
+permissions:
+  contents: write
+
+concurrency: snake
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#00FFFF&color_dots=#161b22,#3b0a4a,#7a1fa2,#c42bd6,#ff00ff
+            dist/snake-light.svg?palette=github-light&color_snake=#c400c4&color_dots=#ebedf0,#b2f5ff,#4ddcf0,#00a3c4,#006c8a
+
+      - name: Publish to the output branch
+        shell: bash
+        env:
+          TOKEN: ${{ github.token }}
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -q -m "snake: redraw contribution grid"
+          git push -q -f "https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git" output
