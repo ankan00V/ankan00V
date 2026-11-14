@@ -40,54 +40,8 @@
 ---
 
 <!-- ============================================================
-     ABOUT
-============================================================ -->
-
-```bash
-┌──[ankan@cyberdeck]─[~]
-└─$ cat about.txt
-```
-
-```
-  NAME      Ankan Ghosh
-  ROLE      Data Science & ML Engineer
-  LOCATION  Phagwara, Punjab, India
-  EDU       B.Tech CSE — Lovely Professional University  [CGPA: 8.0]
-  STATUS    ▓▓▓▓▓▓▓▓▓░  ONLINE — building in public
-
-  I design and ship ML systems end-to-end: from raw, messy data
-  to deployed models that reduce real effort and surface real
-  decisions. Focused on GenAI, multimodal AI, and predictive
-  intelligence at the intersection of software and data.
-
-  INTERESTS   ML · GenAI · LLMs · MLOps · Industrial AI
-  OPEN TO     Collaborations · Research · Internships
-```
-
-```bash
-┌──[ankan@cyberdeck]─[~]
-└─$ cat now.txt
-```
-
-```
-  > Shipping      VidyaVerse — Scalable systems
-  > Studying      LLM fine-tuning · MLOps at scale · Advanced ML . Data Analysis
-  > Latest win    Rank #2 @ Graph Camp  [Top 50 / 40,000+ applicants]
-  > Certified     Oracle · Databricks · IBM · Microsoft  [15+ certs]
-  > Writing       HardCore — Data Science & AI enthusiast
-  > Ritual        Music ON = flow state unlocked ⚡
-```
-
----
-
-<!-- ============================================================
      TECH STACK
 ============================================================ -->
-
-```bash
-┌──[ankan@cyberdeck]─[~]
-└─$ pip list --by-category
-```
 
 <div align="center">
 
