@@ -170,6 +170,19 @@
 </picture>
 </div>
 
+<!-- ============================================================
+     GIT KOI — redrawn daily by .github/workflows/koi.yml
+============================================================ -->
+
+```bash
+┌──[ankan@cyberdeck]─[~]
+└─$ ./koi --feed git-activity --pond
+```
+
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="Ankan's git koi"/>
+</div>
+
 ---
 
 <!-- FOOTER -->
