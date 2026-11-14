@@ -117,18 +117,12 @@
 <div align="center">
 <table>
   <tr>
-    <td><img src="koi/koi.gif" width="256" alt="Ankan's git koi"/></td>
+    <td align="center"><img src="koi/koi.gif" width="420" alt="Ankan's git koi"/></td>
     <td>
-<pre>
-<b>$ koi --status</b>
-
-  species    git-koi
-  fed by     every commit I push
-  colours    the languages I write
-  markings   my contribution streaks
-  growth     cumulative, since day one
-  refresh    daily · 00:20 UTC
-</pre>
+      <sub><code>$ koi --status</code></sub><br/><br/>
+      <sub>🍥 fed by commits</sub><br/>
+      <sub>🎨 coloured by languages</sub><br/>
+      <sub>🌱 grows daily</sub>
     </td>
   </tr>
 </table>
